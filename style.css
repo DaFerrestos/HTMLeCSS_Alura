@@ -1,6 +1,16 @@
+body{
+    background: #f7df0e;
+}
+
 h1{
     text-align: center;
+    
 }
 p{
     text-align: center;
+    
+}
+
+em strong{
+    color: blue;
 }
