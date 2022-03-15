@@ -1,5 +1,5 @@
 body{
-    background: #f7df0e;
+    background: white;
 }
 
 h1{
@@ -19,8 +19,41 @@ em strong{
     font-size: 20px;
 }
 
-#img{
- display: block;
+#img2{
+ 
  margin-left: auto;
  margin-right: auto;
+}
+
+.lista{
+text-decoration: underline;
+}
+
+.forevis{
+    background: whitesmoke;
+    padding: 30px;
+}
+
+.denovis{
+    background: whitesmoke;
+    padding: 20px;
+}
+
+h2{
+    text-align: center;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 5%;
+
+}
+
+.imagemCapa{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
 }
